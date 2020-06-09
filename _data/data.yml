@@ -4,7 +4,7 @@
 
 sidebar:
     #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Sabina Hurtado
@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: sabinahv@gmail.com
-    phone: +34 606903538
+    phone:
     website: saaaab1213.github.io/online-cv/
     linkedin: sabina-hurtado-vaquerizo
     github: saaaab1213
