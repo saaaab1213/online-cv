@@ -25,7 +25,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    idioms:
+    languages:
       - idiom: Ingles
         level: C1 TOEIC
 
@@ -44,147 +44,129 @@ sidebar:
 
       - item: Videojuegos
         link:
+         
+      - item: Teledetección
+        link:
+        
+      
 
 career-profile:
-    title: Career Profile
+    title: Perfil Profesional
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Estudiante de la UPM finalizando el grado de Matemáticas e Informática en la ETSIINF. 
+      Desde que empecé la carrera de matemáticas e informática uno de mis mayores logros ha sido poderlo 
+      compatibilizar con dedicarme al deporte profesionalmente con la selección española de rugby. 
+      Me siento muy orgullosa de poder considerarme parte del mundo STEM y ser mujer y deportista y ser referente para las niñas que en un futuro estarán en mi lugar. Mi mayor interés está en lenguajes como python o como scala, el análisis de datos y la teledetección de imágenes de satélite. He hecho prácticas como desarrolladora en Accenture.
+      Como formación transversal tengo nivel alto (C1) en francés e inglés y he tenido la oportunidad de vivir un año en francia y conocer más de 20 países. Por el deporte de equipo estoy habituada a trabajar en entornos de grupo, multidisciplinares y tengo gran capacidad comunicativa y de adaptación.
+      Creo que todo esto son características que no hubiera adquirido de otra manera y dotan de gran valor al trabajo en cualquier ámbito. 
+      
+      Me siento atraída en mayor medida por las areas de la Inteligencia Artificial, la ciencia de datos y el desarrollo movil; aunque cualquier disciplina por conocer es un reto que merece la pena.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree:  Grado en Matemáticas e Informática
+      university: Universidad Politecnica de Madrid
+      time: 2014 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        
+    - degree:  Erasmus
+      university: Telecom ParisTech
+      time: 2018 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
+    - degree: Curso Teledeteccion con QGIS (125h)
+      university: Geoinnova
+      time: 2020 
+      details: | 
+      
+    - degree: Curso Android (100h)
+      university: UPM
+      time: 2020 
+      details: |
+      
+    - degree: Introduccion al desarrollo front-end (25h)
+      university: UPM
+      time: 2020 
+      details: | 
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Appian Developer
+      time: Nov 2019 - Feb 2020
+      company: Accenture
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        Desarrollo de la idea, desarrollo de la aplicacion y testing de aplicaciones a medida desarrolladas en Appian.
+    
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#publications:
+ #   title: Publications
+ #   intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+ #     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+ #     bibendum fringilla a eu lectus.
+ #   papers:
+ #     - title: The Art of Computer Programming
+  #      link: "#"
+  #      authors: Donald E. Knuth
+  #      conference: Addison-Wesley, 1968
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+ #     - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+ #       link: "#"
+ #       authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+ #       conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+ #     - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 50%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 25%
 
-      - name: Angular
-        level: 98%
+      - name: Java
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 35%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: BBDD & SQL
+        level: 50%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Android
+        level: 40%
+        
+      - name: Data Science
+        level: 35%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
